@@ -2,7 +2,7 @@
 
 <img src="dog2.jpg" width="200" align="right" />
 
-Which is why my favorite projects, [Unanimism](https://github.com/benrucker/Unanimism) and [JermaBot](https://github.com/benrucker/JermaBot) are written in it! Feel free to direct any complaints to my [business email](https://www.youtube.com/watch?v=5qap5aO4i9A).
+Which is why my favorite [JermaBot](https://github.com/benrucker/JermaBot) is written in it! Feel free to direct any complaints to my [business email](https://www.youtube.com/watch?v=5qap5aO4i9A).
 
 ### About me
 
