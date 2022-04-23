@@ -1,16 +1,8 @@
-### Python is the best programming language :snake:
-
 <img src="dog2.jpg" width="200" align="right" />
 
-Which is why my favorite project [JermaBot](https://github.com/benrucker/JermaBot) is written in it! Feel free to direct any complaints to my [business email](https://www.youtube.com/watch?v=5qap5aO4i9A).
+### Python is the best programming language :snake:
 
-### About me
-
-I'm a comp sci student with Fortune 500 experience. Always looking for a new challenge. Over 1,500 commits here on my profile, not counting the private commits I've made to Pitt's CMPINF0010 repo that I'm an undergrad TA for.
-
-Working on art projects when I'm not programming. My current favorite: music production in Ableton. If you have any favorite resources for learning music, let me know!
-
-Also, here's a picture of my dog :dog:
+and add [JermaBot](https://github.com/benrucker/JermaBot) to your Discord server :smirk:
 
 <!--
 **benrucker/benrucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
